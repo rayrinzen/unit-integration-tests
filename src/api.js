@@ -7,3 +7,5 @@ async function fetchPosts() {
 }
 
 module.exports = fetchPosts;
+
+// Додання якісь незначні зміни у проєкті, які не вплинуть на проходження тестів.
